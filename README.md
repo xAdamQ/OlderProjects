@@ -1,6 +1,6 @@
 Some additional games:
 
-My first card game, got about 50k on Google PLay.
+My first card game, got about 50k on Google Play.
 
 <p float="left">
   <img src="/unnamed.jpg" width="200" />
